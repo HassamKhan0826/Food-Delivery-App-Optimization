@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# If you export diagrams or drafts
+*.psd
+*.ai
+*.xd
